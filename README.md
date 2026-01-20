@@ -1,3 +1,4 @@
+<!--README updated correctly-->
 Sampling Assignment: Credit Card Fraud Detection
 
 
@@ -48,7 +49,7 @@ Results and Observations:
 
 Accuracy was calculated for each combination of sampling technique and machine learning model. The results were compared in a tabular format. Random Forest showed consistently higher accuracy across most sampling techniques, indicating its robustness with sampled data.
 
-!\[Model Output]("C:\\Users\\DELL\\Documents\\GitHub\\UCS654-Assign2\\.git\\output image\\Screenshot (506).png")
+!\[Model Output](output image/Screenshot(506).png)
 
 
 
