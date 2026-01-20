@@ -50,7 +50,15 @@ Accuracy was calculated for each combination of sampling technique and machine l
 
 
 
+---
+
+
+
 !\[Model Output](images/output.png)
+
+
+
+---
 
 
 
