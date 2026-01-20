@@ -48,6 +48,8 @@ Results and Observations:
 
 Accuracy was calculated for each combination of sampling technique and machine learning model. The results were compared in a tabular format. Random Forest showed consistently higher accuracy across most sampling techniques, indicating its robustness with sampled data.
 
+
+
 !\[Model Output](images/output.png)
 
 
